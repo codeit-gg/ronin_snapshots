@@ -1,0 +1,341 @@
+Token ID,Owner Address,Attribute backgrounds,Attribute clothes,Attribute skin,Attribute eyes,Attribute lips,Attribute hairs,Attribute weapons,Attribute decoration 1,Attribute decoration 2,Attribute effects,Attribute decoration 3,Attribute decoration 4
+1,0x8221c8f2BaaDceDE941ca095a7F5d0ccbfAEd328,Bg field,Red,Red,Sharp green,Smile,Side brown,Arrow,Bandage,Poring,Flowers,,
+2,0xDEe51119838146B1Be75bEE55e4F2745cb0c67ae,Bg church,Blue,Light,Sharp red,Close,Long wolf red,Arrow,Poring,Goggles,Water,Deviruchi,
+3,0xAa9Ba8433b649B4946DB9B5d6212b68486A873A2,Bg field,Blue,Yellow,Lash blue,Open,Donut pink,Sword up,Bandage,Goggles,Water,Poring,Deviruchi
+4,0x467533F3840f83CA2eA225A7D3814eb800bdBb9B,Bg field,Green,Green,Lash purple,Fangs,Long sky,Crystal,Poring,Deviruchi,Flowers,Bandage,Goggles
+5,0xdA47EAf92f69456A6c4516f031c49d6F14e4A500,Bg church,Yellow,Light,Closed down,Close,Long blueash,Sword,Goggles,Blank,Lightening,,
+6,0xf8657715187e8ebac085471b5549964D1817d39C,Bg church,Blue,Tan,Wink sky,Smile,Donut ash,Sword up,Deviruchi,Bandage,Blank,Poring,
+7,0xB52cC9e5FD7Cb90d095B150D003dFf08c3a0f176,Bg forest,Red,Light,Close down,Fangs,Short blue,Sword down,Poring,Blank,Lightening,Goggles,
+8,0x6f550c94Aca0a3C715815fDCf0B177F170F9F6F3,Bg forest,Yellow,Light,Round green,Smile,Side navy,Arrow,Goggles,Blank,Hearts,,
+9,0xAd63aB86Cd78122fBdFd6f8575aFcfAeDC0e4Ac6,Bg bluesky,Green,Red,Sharp red,Smirk,Bowl green,Arrow,Blank,Poring,Flowers,Bandage,Goggles
+10,0x5Eb183c524Ac918757Cbd10733A12fc6bb9514F3,Bg forest,Green,Bronzed,Close up,Close,Long green,Arrow,Goggles,Poring,Lightening,Blank,
+11,0x933271523191A3c79E4774cEA2B2FDf26869b4cE,Bg dawn,Red,Yellow,Wink pink,Fangs,Twin blue,Crystal,Poring,Bandage,Lightening,Blank,
+12,0x3e13FA90a9C93E977436E6BEEdfEa34929905208,Beach,Green,Blue,Sharp green,Close,Long purple,Crystal,Blank,Poring,Flowers,Goggles,
+13,0x7Cdc0e63080EAE2e36686aA081Db68e75f0d90B2,Beach,Green,Blue,Close down,Smirk,Bowl blue,Sword,Poring,Bandage,Flowers white,Blank,
+14,0x7DbaC4FB9367749a5981CA1158baDAD52F7E1A58,Beach,Red,Light,Lash blue,Close,Short purple,Crystal,Poring,Bandage,Flowers,Deviruchi,Goggles
+15,0x9934cB868092ce017161758ED5CCa1ce443689CC,Bg field,Green,Light,Round purple,Smile,Bang greenash,Crystal,Poring,Bandage,Water,Goggles,
+16,0xcBd2f69246323788773EffA32A5AbcEc5AD334B6,Bg bluesky,Blue,Bronzed,Wink sky,Close,Donut purple,Sword down,Deviruchi,Goggles,Hearts,Blank,
+17,0xcBd2f69246323788773EffA32A5AbcEc5AD334B6,Bg field,Yellow,Green,Sharp green,Smile,Short blonde,Crystal,Poring,Deviruchi,Blank,Goggles,
+18,0xcBd2f69246323788773EffA32A5AbcEc5AD334B6,Bg town,Yellow,Green,Close down,Smile,Bang navy,Arrow,Blank,Deviruchi,Flowers white,Goggles,
+19,0xcBd2f69246323788773EffA32A5AbcEc5AD334B6,Bg church,Yellow,Light,Half purple,Smile,Bang greenash,Arrow,Goggles,Poring,Hearts,Deviruchi,Blank
+20,0xcBd2f69246323788773EffA32A5AbcEc5AD334B6,Bg bluesky,Red,Blue,Wink sky,Fangs,Twin purple,Crystal,Goggles,Bandage,Flowers white,Deviruchi,
+21,0x1b53DfbB86249df1dA290479Dd77770C59bA1672,Bg forest,Green,Red,Sharp odd,Smile,Bang green,Crystal,Goggles,Deviruchi,Water,Bandage,
+22,0xAcf761D6e8f702FAE252C2e294306eE4A5dDDF4B,Bg dawn,Yellow,Tan,Close down,Fangs,Short green,Sword down,Poring,Blank,Hearts,Deviruchi,
+23,0x283C2F47B29A47b191A2001BB7b7F77dfa4c5197,Beach,Green,Yellow,Close up,Open,Donut pink,Sword up,Blank,Deviruchi,Water,Bandage,Goggles
+24,0x590a298460E9EB8d71e935bD8D3DEbA7579839e3,Bg church,Red,Light,Sharp purple,Close,Side blonde,Sword,Bandage,Poring,Water,Goggles,
+25,0x0d6d0d6a819A912659398873a694189Fb689cCF4,Bg town,Yellow,Green,Sharp odd,Smile,Twin blue,Sword up,Poring,Blank,Flowers white,Bandage,Goggles
+26,0x7eaEa84754c509DBAB30B752Ea69D64248988cd0,Bg forest,Red,Purple,Lash blue,Close,Donut ash,Sword down,Poring,Goggles,Flowers white,Bandage,
+27,0x9f39C9614b3108888e66AdcbdD0Ae53c99dC85f3,Bg church,Blue,Bronzed,Round green,Smile,Bang pinkish,Arrow,Goggles,Bandage,Flowers white,,
+28,0xb4e81498D7d012507C98f65158c0e9180EEc2F08,Bg field,Yellow,Tan,Sharp blue,Smile,Side blonde,Crystal,Goggles,Deviruchi,Flowers,,
+29,0xb4e81498D7d012507C98f65158c0e9180EEc2F08,Bg bluesky,Blue,Light,Round purple,Close,Short green,Sword down,Goggles,Poring,Flowers white,Deviruchi,
+30,0xb4e81498D7d012507C98f65158c0e9180EEc2F08,Bg field,Red,Blue,Sharp blue,Close,Long green,Arrow,Poring,Deviruchi,Hearts,,
+31,0x678632494b39B81121BC36A2224fA96911ACC5de,Bg church,Blue,Bronzed,Lash purple,Smile,Donut blue,Arrow,Goggles,Bandage,Flowers white,Deviruchi,
+32,0x5768B58741da092fc91b3242b4E1fE8D2FD0720A,Bg bluesky,Green,Bronzed,Half purple,Close,Long silver,Crystal,Poring,Goggles,Flowers,Blank,
+33,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg dawn,Blue,Red,Round yellow,Smirk,Bowl greenash,Arrow,Blank,Poring,Water,Bandage,
+34,0x8a07B0b03D169A57466E26b83164AF1F33a64E90,Bg bluesky,Yellow,Yellow,Sharp purple,Close,Twin turquoise,Sword up,Goggles,Bandage,Flowers white,Poring,
+35,0x22bc8Bb083EE83fAb405b9fDA1624888b05f81a7,Bg church,Red,Bronzed,Round yellow,Smirk,Long blueash,Crystal,Bandage,Blank,Hearts,Goggles,
+36,0x3d998543D1560f66A01aaE5d932D0C55c49ACb2E,Bg forest,Yellow,Red,Round green,Smile,Bowl greenash,Sword,Blank,Deviruchi,Water,Goggles,
+37,0xbA503a6BeE94b187054712A0c2Af20dfE52f6641,Bg bluesky,Blue,Yellow,Close down,Close,Twin blue,Sword up,Bandage,Blank,Hearts,Poring,
+38,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg church,Red,Green,Lash blue,Smile,Long purple,Crystal,Blank,Deviruchi,Lightening,Bandage,
+39,0x992b9927c025f65b720336ED0C3e6AEBf8aFd374,Bg forest,Yellow,Bronzed,Sharp blue,Close,Bang pinkish,Sword,Goggles,Deviruchi,Flowers,Blank,
+40,0x8A11886362Bd8DBE8b5e6B9e25e3BB1D5985C500,Bg town,Blue,Light,Sharp odd,Close,Long cat blonde,Sword,Bandage,Goggles,Flowers white,Deviruchi,
+41,0x0A1CBCa8d117Ce186C982092e2a6b1da22079761,Bg town,Yellow,Blue,Sharp odd,Smile,Side brown,Sword,Deviruchi,Blank,Flowers,Bandage,
+42,0x947D09720CDCEd1569276fD8B76ED563590c2032,Bg church,Blue,Bronzed,Close down,Smirk,Bang turquoise,Arrow,Poring,Blank,Blank,Bandage,
+43,0xbeA522C63406Affc691342817bb2FB365d4299A8,Bg dawn,Yellow,Tan,Sharp odd,Smile,Long blueash,Arrow,Deviruchi,Goggles,Lightening,,
+44,0x9CB79d84816623E754F56741F3F9b512B15EE70c,Bg forest,Red,Green,Close down,Smile,Bang turquoise,Arrow,Deviruchi,Poring,Water,Bandage,
+45,0x55647De019C8199a1FC45a7a8f2934F917f7AaF1,Beach,Green,Light,Closed down,Smirk,Bang pinkish,Crystal,Bandage,Deviruchi,Hearts,Blank,
+46,0x80E5DfEA75c9d0727F91412d9f1F23342a67aE9E,Bg town,Red,Light,Wink sky,Close,Short purple,Sword down,Poring,Bandage,Blank,Blank,
+47,0xee8f945ed1AFC1FEcC71eFC84812b90D4C4764D5,Beach,Blue,Bronzed,Round red,Close,Long green,Sword down,Goggles,Deviruchi,Blank,Blank,
+48,0xBA355085A714F37e2dea0aaCa356E9A4CD83902F,Bg field,Blue,Tan,Sharp odd,Smile,Bang navy,Arrow,Goggles,Poring,Blank,Deviruchi,
+49,0x040EdaE8918A3594080e18FbF830Ee1311B172b5,Bg dawn,Red,Light,Sharp odd,Smirk,Bang pinkish,Arrow,Poring,Goggles,Blank,Blank,Deviruchi
+50,0x6A119c979658334C77C9826C6C03e2Dc39aF72D7,Bg town,Green,Light,Wink pink,Smile,Blue cat hair,Sword down,Cat girl bandage,Poring,Flowers white,Bell goggles,Deviruchi
+51,0xAD92332C9eB49940CB94892A91C1E9Af4E9f0184,Bg forest,Yellow,Yellow,Sharp purple,Open,Long sky,Crystal,Blank,Deviruchi,Blank,Bandage,
+52,0x478f8A0f85656CbcFcFFE42342b20AD14F29Ad7d,Beach,Green,Purple,Round blue,Smile,Short blue,Crystal,Blank,Bandage,Water,Deviruchi,
+53,0x24C7f1B7526955C9DCBfffe71EdB1c0115376eDf,Bg field,Blue,Bronzed,Half purple,Smile,Bowl blue,Sword,Deviruchi,Goggles,Flowers white,Blank,
+54,0x36bBE9b67456f9A85A689fb7f6DF4C51D8E3Fe75,Bg field,Yellow,Green,Wink pink,Close,Short purple,Sword up,Bandage,Goggles,Flowers,Deviruchi,
+55,0x78fe73db371949b562f21D4A886d3050fe430233,Bg church,Green,Light,Round blue,Close,Donut ash,Crystal,Poring,Goggles,Flowers white,Bandage,
+56,0x7406064851B9E6967D0b7e2Dbec8D3865B5c4b93,Bg dawn,Blue,Yellow,Lash purple,Smile,Donut ash,Arrow,Goggles,Poring,Blank,Deviruchi,
+57,0x13b5825acd99e2D7e0C4CD3ef9D41F39cc5d72ef,Bg field,Green,Green,Sharp odd,Fangs,Long purple,Arrow,Bandage,Deviruchi,Flowers,Poring,
+58,0xA6a383502066B08ce137c1602C07557a25DFd0D0,Bg dawn,Green,Tan,Round blue,Smile,Side blonde,Arrow,Goggles,Poring,Blank,Deviruchi,Bandage
+59,0x77Eebef55D46aAac999636416eF694be471B5D24,Bg forest,Blue,Yellow,Round yellow,Close,Donut purple,Crystal,Goggles,Poring,Blank,Deviruchi,
+60,0x138feFdB5117D6F37AeB39959e9A6fc516bfb834,Bg forest,Green,Green,Close down,Smirk,Bowl green,Sword,Bandage,Poring,Water,Leaf goggles,Deviruchi
+61,0xa9d2DDf57617d3478d304fE2F8F7E760392EDc12,Bg bluesky,Yellow,Green,Wink sky,Open,Donut purple,Sword up,Poring,Bandage,Blank,Goggles,
+62,0x1A74913053Daa6D046d3f7F18439750687AE1DAF,Bg dawn,Green,Blue,Sharp red,Smirk,Bowl purple,Arrow,Blank,Goggles,Flowers,Poring,
+63,0x0feae3dd63E2286c4Eb5dCB72041c099Ddd45ACD,Bg field,Yellow,Blue,Round green,Smirk,Bang pinkish,Sword,Bandage,Goggles,Blank,Blank,
+64,0xf029BdC475FE935ED63A0A1C128490f99e0b1667,Bg dawn,Green,Green,Sharp green,Smile,Short purple,Sword up,Poring,Deviruchi,Lightening,,
+65,0x18BBF4a20d0DDDb0641847035Af2FDCaEB01e8fA,Bg bluesky,Red,Blue,Round yellow,Smile,Side navy,Arrow,Deviruchi,Goggles,Blank,Blank,Poring
+66,0xdA47EAf92f69456A6c4516f031c49d6F14e4A500,Bg forest,Yellow,Blue,Round yellow,Close,Side brown,Crystal,Blank,Poring,Flowers white,Bandage,Deviruchi
+67,0x61E5493a27d6af246ac72b02BAbd3B1646d826aD,Bg bluesky,Blue,Bronzed,Sharp red,Smirk,Side navy,Crystal,Goggles,Deviruchi,Lightening,Bandage,
+68,0x4d7076FED473A97F7BE952082663Abd33289e5ef,Bg church,Green,Pink,Sharp odd,Open,Long purple,Arrow,Blank,Goggles,Flowers white,Poring,Bandage
+69,0x343E247639Bb0A9aB7F61f168081E54D8C4097B0,Beach,Green,Light,Round red,Open,Long ash,Arrow,Deviruchi,Poring,Flowers,Goggles,
+70,0x39D0738011d56cD644F0b4AfC672D057f6f8d443,Bg bluesky,Yellow,Tan,Purple heart eyes,Smile,Donut purple,Crystal,Heart cheeks,Goggles,Hearts,Deviruchi,
+71,0x2b38B623013B77d2B2861CFfd63B324cdf032416,Bg church,Yellow,Pink,Sharp blue,Fangs,Donut pink,Arrow,Hair pins,Poring,Flowers,Goggles,Deviruchi
+72,0x8A4edf217358C382F7fa7495650b71978128b79E,Bg town,Red,Red,Half blue,Close,Bang pinkish,Sword,Goggles,Deviruchi,Hearts,Poring,
+73,0xA34e86e0082365014c7e0A5c37E2B65F7CE1901A,Bg field,Yellow,Purple,Close down,Fangs,Long sky,Sword up,Goggles,Blank,Water,Bandage,
+74,0x2F77d36150a4555C0E086d5360cED4c64C69Dd2e,Bg bluesky,Red,Light,Sharp purple,Close,Bang turquoise,Sword,Bandage,Goggles,Flowers white,,
+75,0x224ae1d88DB764548C857899D675162D188A2C93,Bg field,Green,Light,Wink pink,Close,Short green,Crystal,Blank,Poring,Hearts,Goggles,Deviruchi
+76,0x224ae1d88DB764548C857899D675162D188A2C93,Bg town,Yellow,Tan,Sharp blue,Close,Long silver,Arrow,Scar,Poring,Flowers white,Goggles,Bandage
+77,0x224ae1d88DB764548C857899D675162D188A2C93,Bg town,Red,Green,Wink sky,Close,Short blonde,Crystal,Poring,Blank,Lightening,Deviruchi,
+78,0x224ae1d88DB764548C857899D675162D188A2C93,Bg bluesky,Green,Red,Sharp purple,Close,Long silver,Arrow,Poring,Goggles,Blank,Blank,
+79,0x224ae1d88DB764548C857899D675162D188A2C93,Bg field,Blue,Blue,Half purple,Close,Bowl red,Crystal,Goggles,Blank,Flowers,Bandage,
+80,0x224ae1d88DB764548C857899D675162D188A2C93,Bg dawn,Red,Blue,Sharp purple,Close,Bowl blue,Arrow,Blank,Deviruchi,Flowers,,
+81,0x224ae1d88DB764548C857899D675162D188A2C93,Bg dawn,Yellow,Tan,Round purple,Smile,Bowl green,Arrow,Poring,Deviruchi,Hearts,Bandage,Goggles
+82,0x415BE58b62Ed85Ea515137ac6AAF03702E7e4040,Bg bluesky,Yellow,Light,Closed down,Smile,Side brown,Arrow,Bandage,Blank,Flowers white,Goggles,
+83,0x2f5cc8bf1B9d5E2928bEEe5e350D79f107439820,Bg dawn,Green,Tan,Sharp odd,Smile,Long blueash,Sword,Blank,Bandage,Flowers,Goggles,
+84,0x52598305571fdeE5541823BaBf8BF296ec248477,Bg dawn,Yellow,Bronzed,Round blue,Smile,Bowl green,Crystal,Goggles,Blank,Flowers,Deviruchi,
+85,0x61471f0e773609aF59e6756aCC717Ab8437fF288,Bg dawn,Red,Light,Wink pink,Close,Long green,Arrow,Deviruchi,Goggles,Hearts,Blank,
+86,0xa9F98e6e55C4fE286BF72d478E89F779E72ae6bB,Beach,Blue,Tan,Round yellow,Open,Long green,Arrow,Bandage,Goggles,Lightening,Poring,Blank
+87,0x138feFdB5117D6F37AeB39959e9A6fc516bfb834,Bg forest,Green,Light,Sharp blue,Close,Long blonde,Sword,Blank,Bandage,Flowers,,
+88,0xF431F892e916098D4fe3C6e91233bC0C628D7129,Bg church,Red,Yellow,Wink pink,Fangs,Twin blue,Crystal,Deviruchi,Goggles,Water,,
+89,0x1800b5Ffed794896a1B456FC45Fa57288b42Eb1d,Bg field,Yellow,Tan,Sharp blue,Smirk,Bowl red,Sword,Blank,Goggles,Blank,,
+90,0xf6E2fd186c3367Ba54c36d7FB8030C3De93E769C,Bg field,Red,Yellow,Sharp green,Open,Donut purple,Arrow,Goggles,Deviruchi,Flowers white,,
+91,0xfE9f5e76e70627f358C958e24f24304081e12653,Bg bluesky,Blue,Tan,Sharp blue,Close,Bowl green,Sword,Blank,Poring,Flowers,Deviruchi,
+92,0x11c4793f64DC3157066fC369552522EF2A545F83,Bg dawn,Red,Purple,Round purple,Fangs,Long sky,Crystal,Blank,Poring,Hearts,Deviruchi,Goggles
+93,0x11c4793f64DC3157066fC369552522EF2A545F83,Beach,Red,Bronzed,Sharp red,Smirk,Long blonde,Sword,Blank,Bandage,Water,Poring,
+94,0xCa582c44F1d7F6184A750059215A4a9D5Fe6bDcd,Beach,Yellow,Green,Sharp blue,Smile,Long sky,Sword down,Bandage,Poring,Flowers white,Deviruchi,Mermaid
+95,0x3E0E57fcC8d92c595e13dEFEd662c2C34008BcF9,Bg town,Red,Blue,Sharp blue,Open,Short purple,Sword up,Poring,Blank,Flowers white,Bandage,
+96,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg church,Green,Light,Half purple,Smirk,Side brown,Arrow,Deviruchi,Bandage,Flowers white,,
+97,0xe2f5c454932ae879C4B832e1dc97e65Ed53D4D9a,Bg dawn,Red,Light,Round purple,Close,Bowl greenash,Sword,Blank,Deviruchi,Flowers,,
+98,0x392f1d6285c333399690D2bebB53EC753f9eD480,Bg field,Blue,Bronzed,Wink blue,Fangs,Long green,Crystal,Blank,Poring,Flowers,Deviruchi,
+99,0xA9DF0583D3F2458E97C3906aD4015Ce2BcA0524F,Bg bluesky,Red,Tan,Close up,Smile,Short blonde,Sword up,Blank,Goggles,Hearts,,
+100,0xCaf6024dc15F6ece1b45Db4a0ab71fd8bEA26b61,Bg bluesky,Red,Yellow,Round blue,Smile,Long green,Sword up,Goggles,Deviruchi,Lightening,Poring,Bandage
+101,0xA097EFC5bbdCd391a57D568A3Bc681199259657D,Bg dawn,Red,Purple,Round yellow,Fangs,Long sky,Arrow,Deviruchi,Poring,Lightening,,
+102,0x0859258BC135DCEc4Fdab1228344c3ABc9dDB06F,Bg field,Red,Blue,Close down,Smile,Donut ash,Crystal,Deviruchi,Goggles,Flowers,Blank,
+103,0x386B4ce7F68b487C0e7C1b3Cb5DdFb7886Cd8427,Bg bluesky,Red,Light,Sharp green,Smile,Bang pinkish,Sword,Blank,Poring,Lightening,,
+104,0xbca5b4211b313F39831767e2FCCf060379522AAd,Bg dawn,Green,Blue,Round red,Smile,Donut purple,Sword up,Blank,Bandage,Flowers,,
+105,0xC145d4a37F80750Df65b998c87f51645129ef819,Bg forest,Red,Red,Round blue,Close,Bowl green,Sword,Poring,Bandage,Flowers,Blank,
+106,0x6929ca11DD015F12c5083aaEB7595838b9F08652,Bg town,Yellow,Blue,Wink pink,Smile,Donut pink,Sword up,Blank,Poring,Flowers,Deviruchi,
+107,0xdE306deB048525fe516B39A5ccCea6EfFC3FDb0E,Bg dawn,Green,Pink,Close up,Fangs,Donut pink,Sword up,Poring,Bandage,Flowers white,Goggles,
+108,0xD9179Db9b0931202C712B8cA8B8f8a9Bed01038f,Bg forest,Blue,Yellow,Sharp green,Smile,Short purple,Crystal,Poring,Blank,Water,,
+109,0xd2748a5c42a7125af7e310e751DEdC2Bd8320300,Bg bluesky,Green,Light,Close up,Smile,Bang pinkish,Arrow,Bandage,Blank,Lightening,Deviruchi,Goggles
+110,0x7F498336f57C7B6d96e9c98dB0a01CAF4b60Cb78,Bg church,Green,Blue,Sharp blue,Smile,Donut pink,Arrow,Deviruchi,Poring,Hearts,Goggles,
+111,0xBcE94f793beb27f018436D7E17cC2C8aD968bE96,Bg dawn,Blue,Light,Lash purple,Close,Long ash,Sword down,Blank,Deviruchi,Blank,Bandage,
+112,0x7c2235A891C89485271053009D401D4DEB155237,Bg bluesky,Blue,Green,Close up,Close,Twin blue,Sword down,Bandage,Goggles,Flowers white,Blank,
+113,0x1233498Fe66e2E7f787E34c852564b2d4b0057BD,Bg town,Blue,Yellow,Lash purple,Open,Long sky,Arrow,Bandage,Goggles,Flowers,Blank,
+114,0x6d20bF47282c43e4Ef0b44C5b14e062F944D12d5,Bg forest,Yellow,Bronzed,Sharp blue,Close,Bang navy,Sword,Deviruchi,Bandage,Flowers white,Blank,
+115,0x1233498Fe66e2E7f787E34c852564b2d4b0057BD,Bg field,Green,Tan,Sharp blue,Close,Short green,Crystal,Bandage,Poring,Blank,Blank,Deviruchi
+116,0xEca8e861EEee0861571C44bAE2081d0632C38bc3,Bg town,Green,Purple,Close up,Close,Twin purple,Sword down,Poring,Goggles,Water,Bandage,Deviruchi
+117,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg field,Blue,Bronzed,Close down,Smirk,Side blonde,Sword,Bandage,Poring,Flowers,Deviruchi,
+118,0x350DC39F5aD19e805465C4f8Eb0D98F61Eba1821,Bg bluesky,Green,Bronzed,Close down,Open,Purple horn hair,Arrow,Star bandages,Multiple bandages,Water,Poring,Deviruchi
+119,0xD260Ae6906B368Bc3431568c637AB1AF825A672C,Bg bluesky,Red,Bronzed,Round red,Fangs,Short green,Arrow,Bandage,Deviruchi,Blank,,
+120,0x886aaE52F9b518c34bFE50BE480D525cff9E0170,Bg forest,Blue,Light,Sharp blue,Close,Long blueash,Arrow,Blank,Goggles,Flowers white,Poring,
+121,0x2eCfea4C456a7f826C9C8A47aF89AeD6C43b5810,Beach,Blue,Blue,Sharp blue,Open,Donut purple,Sword up,Blank,Poring,Lightening,Deviruchi,
+122,0xd8439E02CfE4bd866b1f1Ee7eee63E07F546F11c,Bg bluesky,Green,Blue,Round purple,Smile,Side blonde,Crystal,Blank,Bandage,Flowers,,
+123,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg forest,Yellow,Tan,Round purple,Close,Bowl greenash,Sword,Deviruchi,Blank,Hearts,,
+124,0xb561d39B2dcc455820173DB79BD7f77e6e7bf995,Bg church,Yellow,Blue,Sharp blue,Smile,Donut purple,Sword up,Deviruchi,Blank,Hearts,Bandage,
+125,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg bluesky,Red,Blue,Close down,Close,Bowl purple,Crystal,Blank,Deviruchi,Flowers,Goggles,Bandage
+126,0x71a88960Ca5ED0CAE9e9480637DfdB9621F2F634,Beach,Green,Yellow,Close up,Fangs,Short blue,Arrow,Bandage,Poring,Flowers,Deviruchi,
+127,0x1233498Fe66e2E7f787E34c852564b2d4b0057BD,Beach,Blue,Tan,Half purple,Smirk,Bang turquoise,Sword,Goggles,Bandage,Blank,Poring,Blank
+128,0x0C3dD58760c7A002F52a8f894Ef28fd5b76214c0,Bg church,Red,Bronzed,Close down,Close,Side pink,Arrow,Poring,Blank,Water,,
+129,0xF45fe8E89e2E4c9bb90E102Eb8D8b8ae4B04D837,Bg bluesky,Red,Purple,Round purple,Close,Long purple,Sword up,Bandage,Deviruchi,Hearts,Blank,
+130,0x700383F3a6dbcF2F1DD92DED7b17a4a6e908DeDd,Bg field,Green,Bronzed,Sharp blue,Close,Bang pinkish,Crystal,Bandage,Poring,Blank,Deviruchi,
+131,0x7BcBb699066906719Fe97fAd61cf4046eBf2292A,Bg field,Blue,Light,Sharp purple,Close,Long blueash,Crystal,Poring,Goggles,Flowers white,Blank,
+132,0x3BA1bEF7907772ED4Cec2a909790f2e1663daA93,Bg church,Red,Pink,Close down,Close,Long sky,Sword down,Deviruchi,Bandage,Flowers,Blank,Goggles
+133,0x142c3c9F1799c7766b57b349c4900a88Fd464391,Bg forest,Red,Bronzed,Round red,Close,Long green,Sword up,Bandage,Deviruchi,Hearts,Goggles,
+134,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg dawn,Red,Bronzed,Sharp odd,Smile,Long green,Crystal,Bandage,Deviruchi,Hearts,Blank,
+135,0xd6bF51fEcdBa30FCd64229353C68dDa2f96b7925,Bg church,Yellow,Blue,Sharp blue,Smile,Bowl greenash,Sword,Goggles,Poring,Lightening,Deviruchi,Bandage
+136,0xB1D8AFA0371EB91218f520dDd48d71f35F69c70A,Bg town,Red,Yellow,Close down,Fangs,Donut ash,Sword down,Goggles,Bandage,Lightening,Poring,
+137,0x2B4a42997e040F97F37C6FB152B3a0A4FcCbF63A,Bg forest,Blue,Red,Round blue,Close,Bowl purple,Arrow,Bandage,Blank,Flowers white,Poring,
+138,0xAEB608297861E6e7e3F3a6126ce670AfCfb984FD,Bg dawn,Blue,Purple,Dog paw purple,Open,Dog ear long green,Crystal,Dog accessories,Poring,Water,Goggles,
+139,0x8bEe0aa0133177a06C4809092bCB8C80e8990243,Bg church,Yellow,Tan,Half purple,Close,Long silver,Arrow,Goggles,Poring,Lightening,Deviruchi,
+140,0x1370a31AF293d360AD373F2d4bD1353b7c135D73,Bg town,Yellow,Bronzed,Sharp blue,Close,Donut purple,Crystal,Deviruchi,Bandage,Lightening,Blank,Goggles
+141,0x350DC39F5aD19e805465C4f8Eb0D98F61Eba1821,Bg bluesky,Blue,Bronzed,Round green,Smile,Side navy,Sword,Bandage,Poring,Flowers white,Goggles,Lamb boy
+142,0xC3E3DD7ae6e0EEdcA2715FCe51B7ED2B840cF7f8,Bg church,Yellow,Bronzed,Half blue,Smirk,Side pink,Arrow,Goggles,Blank,Flowers white,Poring,Deviruchi
+143,0x87FbFc1a7f25D3EB680Eb327e4cA3A4639A931e0,Bg church,Blue,Blue,Close up,Smirk,Long blonde,Arrow,Goggles,Poring,Water,Bandage,
+144,0x1536467a97415D7957EE28d65eEf9dF1c8b58C4E,Bg forest,Green,Blue,Wink sky,Fangs,Twin turquoise,Crystal,Deviruchi,Bandage,Flowers white,,
+145,0xa84A35B0D18BF0B6e0182836f3c4e0C7178D62BC,Bg dawn,Blue,Bronzed,Sharp green,Close,Long silver,Sword,Poring,Deviruchi,Lightening,Bandage,
+146,0x8B1f42BdeD962f06E68921a87441ae6823C72b1A,Bg field,Green,Bronzed,Sharp purple,Open,Long ash,Crystal,Poring,Bandage,Hearts,Goggles,Blank
+147,0x790fa0ed34D44FAAE0De3C37cb89741Eb6a21A84,Bg field,Red,Tan,Half blue,Smirk,Bowl greenash,Arrow,Deviruchi,Goggles,Flowers white,Bandage,
+148,0x8cF6f050C153f06a45c31631040B4B4720180612,Bg town,Yellow,Yellow,Round blue,Close,Donut purple,Sword down,Bandage,Deviruchi,Hearts,Blank,
+149,0x2AEF24F60f2B23d63C080FD26c6a3962A4D6af36,Bg field,Blue,Light,Wink blue,Fangs,Long ash,Sword down,Goggles,Blank,Hearts,Deviruchi,Bandage
+150,0xdfBd04AdbcFD601f65A50Da4A415af362E371423,Bg bluesky,Blue,Light,Close up,Close,Bang navy,Crystal,Bandage,Poring,Lightening,Deviruchi,
+151,0x2AD14C57f33a2502A84B00f74448bC8e31033Eb5,Bg forest,Blue,Tan,Sharp blue,Fangs,Short blue,Sword up,Poring,Goggles,Water,Deviruchi,Blank
+152,0xcB58791773218CAd1eC96EDcb15192d28F3955bE,Bg forest,Green,Green,Close up,Smirk,Bowl greenash,Arrow,Bandage,Blank,Flowers white,Poring,
+153,0xce4ad5978fDF51D726612fE475fFbcE2C8311364,Bg dawn,Green,Green,Sharp blue,Fangs,Short blue,Crystal,Bandage,Goggles,Flowers,,
+154,0x4a9d5F529A5b52241956c9cEF233697239B3964a,Beach,Green,Tan,Round blue,Close,Side brown,Crystal,Bandage,Deviruchi,Water,Blank,
+155,0xc377e2A91eEc0f231e90f91fc6803a04e46AFc3B,Bg town,Red,Blue,Half blue,Smile,Bowl greenash,Crystal,Poring,Bandage,Flowers white,Blank,
+156,0xc0AAA5Ec414AE3D4463b949AE6cF2e4dbaE056ad,Bg field,Yellow,Pink,Wink pink,Open,Donut ash,Sword down,Poring,Goggles,Hearts,Bandage,Blank
+157,0x93224992661c76c79Bc0EF68c5043BeB3de1DEcA,Bg town,Red,Red,Round green,Close,Bowl greenash,Sword,Deviruchi,Poring,Water,Goggles,
+158,0x917f7d6a48C2de235a70b866e5104BB85C162894,Bg forest,Green,Light,Round yellow,Smirk,Bang greenash,Sword,Bandage,Goggles,Water,,
+159,0xaF5784AF53b22b7aA76Ee51E8208B8a32a36c06C,Bg field,Blue,Blue,Sharp red,Smile,Bowl blue,Arrow,Bandage,Poring,Flowers white,Deviruchi,
+160,0x1e3A9a82EB948211ac4C27D3933f7B89925846Cc,Bg bluesky,Red,Bronzed,Wink pink,Open,Short purple,Sword down,Goggles,Poring,Blank,,
+161,0x2bd99eA4a8D98b931F4b5e9A04f33Ce7955a4354,Bg church,Green,Yellow,Sharp odd,Smile,Twin blue,Arrow,Poring,Blank,Flowers white,Bandage,
+162,0x8335862f4D0668325b7f326F8f94b0C66563D91d,Bg dawn,Yellow,Blue,Close down,Smile,Side blonde,Arrow,Deviruchi,Blank,Water,Bandage,
+163,0xBdc1c4ACec2996C0b4B441DB2DCa935B40B35871,Bg dawn,Blue,Bronzed,Round yellow,Fangs,Twin purple,Arrow,Bandage,Deviruchi,Flowers,,
+164,0xDc8142e4dA8143eB0238951F389ABAb06F4A5B55,Bg church,Yellow,Pink,Round blue,Open,Short purple,Sword down,Blank,Bandage,Hearts,Deviruchi,Goggles
+165,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg dawn,Blue,Tan,Half blue,Smirk,Bowl green,Sword,Poring,Blank,Water,,
+166,0x1590254D315019117584B9d17276e16F5e603a46,Bg forest,Green,Red,Round yellow,Close,Bang pinkish,Sword,Bandage,Deviruchi,Blank,Goggles,Poring
+167,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg field,Green,Bronzed,Close up,Smile,Long purple,Arrow,Poring,Blank,Lightening,,
+168,0x0Fd64Eef118f88Ea4886F01e4af1C373BBB6B286,Bg field,Blue,Pink,Sharp green,Smile,Short purple,Crystal,Goggles,Bandage,Blank,Blank,
+169,0x469FeE8D5fE92Cd23c933b30Fd413A96293D5742,Bg town,Red,Light,Lash blue,Smile,Short blonde,Sword up,Blank,Deviruchi,Blank,Goggles,
+170,0x9c77b3ABE58b4F57A395ACF48B7D598101386787,Beach,Yellow,Light,Wink blue,Smile,Long sky,Sword up,Goggles,Deviruchi,Flowers,Poring,
+171,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg field,Green,Blue,Sharp purple,Smirk,Bowl green,Crystal,Poring,Deviruchi,Lightening,Bandage,
+172,0x188c4De953b58ab513cefd75b1eFE4f64F30d6eB,Bg forest,Blue,Green,Sharp green,Open,Short purple,Sword down,Poring,Goggles,Hearts,,
+173,0x5f794A43766ab4e7e5f86f35942363a8ce86105A,Bg field,Red,Bronzed,Close up,Close,Bowl green,Crystal,Poring,Goggles,Lightening,,
+174,0xf38f45aAa553bB42A199075f36f8a2858FBaE095,Bg town,Yellow,Bronzed,Sharp green,Smile,Side navy,Crystal,Goggles,Deviruchi,Water,Poring,Bandage
+175,0x1310761c87Cf12c0040f55D79D3CBbF4451613E8,Bg bluesky,Blue,Green,Close down,Smile,Long green,Arrow,Blank,Deviruchi,Flowers white,Poring,Bandage
+176,0xa24D69F2eD760cD050d9C531f9D799cD82D8e37c,Bg dawn,Blue,Light,Round blue,Smirk,Side navy,Arrow,Bandage,Blank,Water,Poring,
+177,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg church,Blue,Blue,Round purple,Smile,Bowl greenash,Arrow,Poring,Goggles,Hearts,Blank,Deviruchi
+178,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg bluesky,Blue,Green,Close up,Smirk,Bang pinkish,Sword,Goggles,Blank,Flowers white,,
+179,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg forest,Yellow,Purple,Round red,Fangs,Twin purple,Arrow,Blank,Goggles,Hearts,Poring,Deviruchi
+180,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Beach,Blue,Light,Sharp odd,Open,Twin turquoise,Sword down,Blank,Goggles,Blank,Poring,Deviruchi
+181,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Beach,Yellow,Light,Round green,Close,Bowl greenash,Crystal,Bandage,Deviruchi,Flowers,Goggles,
+182,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg forest,Green,Bronzed,Half blue,Close,Bowl purple,Arrow,Goggles,Bandage,Flowers white,Poring,
+183,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg town,Yellow,Blue,Half blue,Close,Side brown,Crystal,Goggles,Blank,Water,Poring,
+184,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg church,Red,Light,Lash blue,Open,Long green,Arrow,Blank,Deviruchi,Blank,,
+185,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg dawn,Yellow,Pink,Lash blue,Close,Twin turquoise,Arrow,Deviruchi,Blank,Hearts,Goggles,
+186,0x21b3722559E2492BB88bC9F09759AC8E14E475DA,Bg field,Blue,Red,Sharp green,Close,Bowl green,Crystal,Poring,Bandage,Water,,
+187,0xd6581A45B203b1D536717005a263453838164cfb,Beach,Blue,Bronzed,Lash purple,Fangs,Twin turquoise,Crystal,Bandage,Blank,Hearts,Goggles,
+188,0xcF8aE670E6b70C452CC684138445F5D76db294C3,Beach,Green,Green,Lash purple,Fangs,Twin blue,Sword down,Deviruchi,Bandage,Hearts,Goggles,
+189,0xe9Ac1a4D15c9B8EcDC0a1B85379Ef735410DaE37,Bg forest,Red,Yellow,Sharp purple,Open,Donut purple,Sword down,Blank,Bandage,Flowers,Goggles,Poring
+190,0x16Dc76d180e63AEC06ae48c7866e9ed028066F67,Bg field,Red,Yellow,Sharp odd,Open,Twin purple,Crystal,Deviruchi,Poring,Lightening,Goggles,
+191,0x2b38B623013B77d2B2861CFfd63B324cdf032416,Bg church,Blue,Yellow,Wink sky,Open,Green rabbit hair,Crystal,Poring,Goggles,Hearts,Deviruchi,
+192,0x3358549b372a13D197A8Af5a6Ec6e89a9F359F5F,Bg church,Yellow,Bronzed,Sharp blue,Close,Bowl purple,Crystal,Blank,Poring,Flowers white,Bandage,
+193,0x8A92971C1DED1146FBdAc9432f3AE512d5F2F44e,Bg field,Blue,Red,Close up,Close,Long blueash,Sword,Poring,Deviruchi,Water,Bandage,
+194,0xF8b40aFD1739e7103b5dCf39222c29F6a1633b89,Bg field,Blue,Tan,Sharp red,Close,Bang turquoise,Crystal,Blank,Deviruchi,Flowers white,,
+195,0xe1947bf61124D7eDcbf75208732d9F1B1868593c,Bg dawn,Green,Red,Sharp red,Smile,Side brown,Arrow,Bandage,Poring,Lightening,Fire goggles,Deviruchi
+196,0x74aD587A6B78a9904c2569d54ed390262816F382,Bg dawn,Red,Light,Half purple,Close,Long blueash,Sword,Blank,Bandage,Hearts,Deviruchi,
+197,0xdABEd3023b5DB80665DE730943758C5478E434ba,Bg forest,Blue,Tan,Wink blue,Smile,Donut purple,Arrow,Poring,Goggles,Blank,Bandage,
+198,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Beach,Yellow,Light,Close down,Close,Long ash,Crystal,Bandage,Poring,Water,Deviruchi,
+199,0x3274EEA1C7966bdB7D31243C835FcB24402977BA,Bg dawn,Yellow,Blue,Round purple,Smirk,Bang turquoise,Crystal,Bandage,Blank,Flowers,,
+200,0xc9a7A2298189599180F66a030D3b5F0fb7541CB6,Bg town,Blue,Red,Round yellow,Smirk,Bowl greenash,Crystal,Goggles,Blank,Hearts,Poring,Deviruchi
+201,0x4cF536807041D917bE83506AEECD646AE87F7e3B,Bg town,Green,Bronzed,Close up,Smirk,Bowl blue,Crystal,Poring,Deviruchi,Hearts,Blank,Goggles
+202,0x4d816aeEa209407faC3d551C18539B48761e15Ee,Bg town,Yellow,Light,Sharp green,Smirk,Long green,Crystal,Poring,Blank,Water,Goggles,Bandage
+203,0xf51EB9E5f56edb1C12404A898C63a10d37Fc63f9,Bg church,Yellow,Light,Sharp green,Smirk,Side navy,Arrow,Goggles,Deviruchi,Hearts,Poring,
+204,0x5013d6d4f37801d74f035A2d4Fec7904fE48ce26,Bg church,Green,Tan,Close down,Close,Donut ash,Crystal,Blank,Bandage,Water,Poring,
+205,0xf51EB9E5f56edb1C12404A898C63a10d37Fc63f9,Bg dawn,Red,Light,Round green,Smile,Long red,Sword,Bandage,Blank,Water,,
+206,0x03247C8eC750898739A6B39394119A6ef2b60eB5,Beach,Green,Blue,Round blue,Open,Donut pink,Arrow,Poring,Blank,Flowers white,,
+207,0xAD74c0fdBA506870f8236a8652045F08FD2eba9e,Bg dawn,Red,Red,Close down,Close,Side navy,Sword,Deviruchi,Goggles,Hearts,Bandage,
+208,0xc5ea9cE7DCE9aec7E4ED71348C2dFeEE9faeE08a,Beach,Green,Yellow,Round purple,Fangs,Short blonde,Arrow,Bandage,Goggles,Flowers,Deviruchi,
+209,0xc5ea9cE7DCE9aec7E4ED71348C2dFeEE9faeE08a,Bg bluesky,Green,Bronzed,Round red,Fangs,Long purple,Sword up,Deviruchi,Goggles,Water,Blank,
+210,0xc5ea9cE7DCE9aec7E4ED71348C2dFeEE9faeE08a,Bg bluesky,Green,Red,Round blue,Close,Bang turquoise,Arrow,Bandage,Goggles,Hearts,,
+211,0xc5ea9cE7DCE9aec7E4ED71348C2dFeEE9faeE08a,Bg bluesky,Green,Yellow,Round red,Close,Long green,Crystal,Blank,Poring,Hearts,Bandage,
+212,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg bluesky,Yellow,Tan,Lash blue,Smile,Long green,Sword down,Deviruchi,Goggles,Flowers white,Blank,
+213,0xFcD29A0cdd8d0f833CE2c4A462C2442D0219b263,Bg dawn,Red,Red,Sharp red,Smirk,Bang navy,Arrow,Poring,Blank,Lightening,Bandage,
+214,0xFcD29A0cdd8d0f833CE2c4A462C2442D0219b263,Bg bluesky,Red,Purple,Sharp blue,Close,Twin blue,Sword down,Bandage,Deviruchi,Lightening,Goggles,
+215,0xCde7E8be0c228c2eFbFABA9006d43cEee4c6D4CB,Bg town,Green,Light,Round purple,Smirk,Side navy,Arrow,Poring,Bandage,Hearts,Blank,
+216,0xFcD29A0cdd8d0f833CE2c4A462C2442D0219b263,Beach,Yellow,Light,Round green,Smile,Long silver,Sword,Deviruchi,Bandage,Flowers white,Poring,
+217,0x602117978F45e71766a088c9e31A4bA8f1f2D066,Bg town,Red,Light,Close down,Smile,Donut pink,Arrow,Blank,Bandage,Blank,Goggles,
+218,0x1C8046E1655f854dD0A24C5B91D59f1d60893Ec1,Bg dawn,Yellow,Bronzed,Sharp odd,Smirk,Bang turquoise,Sword,Poring,Goggles,Hearts,,
+219,0x6CE55CaCA95a00E938EA07a3Ca38f2C941Fe917e,Bg forest,Blue,Tan,Round yellow,Close,Long red,Arrow,Deviruchi,Bandage,Lightening,,
+220,0xb631bBEfc3E8C052084E0944525f71299cf08F3d,Bg field,Blue,Tan,Round green,Smirk,Bowl purple,Crystal,Deviruchi,Poring,Flowers,,
+221,0xCfD2Ba5F4496ab449A10c2FCCd0075b2C96563B3,Bg bluesky,Red,Purple,Sharp blue,Smile,Donut blue,Sword down,Goggles,Bandage,Hearts,Blank,
+222,0x07e8a17A183986BfdE86d9f8F118fb368834940e,Beach,Green,Blue,Sharp red,Smirk,Bowl red,Sword,Sparkle bandage,Scribble pins,Flowers,Goggles,Deviruchi
+223,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg bluesky,Red,Tan,Sharp purple,Smile,Long green,Crystal,Blank,Deviruchi,Blank,Goggles,
+224,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg bluesky,Green,Red,Round yellow,Close,Long green,Arrow,Poring,Bandage,Flowers white,Goggles,
+225,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Beach,Red,Red,Round yellow,Smile,Bowl blue,Crystal,Bandage,Blank,Water,Poring,Goggles
+226,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg town,Red,Bronzed,Sharp green,Smile,Long green,Sword down,Blank,Goggles,Blank,Poring,
+227,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg field,Green,Purple,Lash blue,Open,Twin blue,Crystal,Blank,Poring,Water,Bandage,
+228,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg field,Red,Light,Round blue,Close,Bang navy,Arrow,Blank,Goggles,Lightening,,
+229,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg forest,Red,Bronzed,Close down,Smirk,Side brown,Crystal,Goggles,Bandage,Lightening,,
+230,0xd5D1Eff35ad417726d54A00F0d157fF359D21BBb,Bg bluesky,Green,Light,Sharp blue,Smile,Short purple,Crystal,Goggles,Deviruchi,Flowers,Blank,
+231,0x3E87BE01a8c5a95B176143B27E20E126c1639240,Bg bluesky,Red,Bronzed,Sharp odd,Smirk,Side brown,Crystal,Blank,Bandage,Flowers white,Deviruchi,
+232,0x3F86f18322a888d9b3adef38f127c941bCcc014D,Bg dawn,Blue,Purple,Round yellow,Fangs,Short blue,Crystal,Bandage,Poring,Water,Goggles,Blank
+233,0x3F86f18322a888d9b3adef38f127c941bCcc014D,Bg forest,Blue,Yellow,Lash purple,Smile,Twin turquoise,Sword up,Bandage,Deviruchi,Hearts,,
+234,0x3F86f18322a888d9b3adef38f127c941bCcc014D,Bg dawn,Red,Bronzed,Sharp red,Smile,Long red,Arrow,Bandage,Poring,Lightening,Blank,
+235,0x540Fd165774f8de502E454ca11F4902C5bcCd25d,Bg church,Yellow,Light,Sharp green,Smile,Bang navy,Crystal,Bandage,Eye patch,Water,Goggles,Deviruchi
+236,0x29acc1620F04c19A7cC89e1f371ECBE4b807731D,Beach,Green,Bronzed,Sharp odd,Smile,Bang greenash,Sword,Poring,Deviruchi,Lightening,Bandage,
+237,0xE9F8d8a33B5E76Ea27D1D19516F6668B8853c80A,Bg forest,Red,Red,Sharp odd,Close,Side navy,Sword,Goggles,Blank,Blank,Deviruchi,Bandage
+238,0x7e1D5FC7eD0ACfeD5B3aEF6801FBC486825B3D2B,Bg bluesky,Green,Bronzed,Sharp purple,Close,Bang navy,Sword,Goggles,Deviruchi,Hearts,Poring,
+239,0x11d509aDC0A2C91F880EFFd90F984e9D158C35f3,Beach,Yellow,Red,Round purple,Smirk,Bang greenash,Sword,Bandage,Blank,Lightening,Goggles,
+240,0x2F995Bf0ade6275b9bD23167E69af49cf776A0de,Beach,Green,Purple,Lash blue,Fangs,Long ash,Sword down,Poring,Blank,Flowers,Deviruchi,
+241,0x2eCfea4C456a7f826C9C8A47aF89AeD6C43b5810,Bg field,Red,Blue,Star blue,Fangs,Long ash,Sword up,Star hair pins,Star face painting,Flowers,Poring,Goggles
+242,0xF198C3fB3a1404c7BA3b19138CB2f5860Ada5edE,Bg town,Yellow,Green,Sharp purple,Fangs,Short blue,Sword down,Bandage,,Lightening,,
+243,0x590bFd1F4Fa2EA780A4a0B31537C08eaE9b49b90,Bg town,Red,Tan,Close down,Close,Donut blue,Arrow,Blank,Deviruchi,Hearts,Bandage,
+244,0xfA7de175AAfa18A8672be6079B0BcE34B41dcAF3,Bg town,Blue,Tan,Round blue,Smile,Long silver,Sword,Blank,Deviruchi,Flowers,,
+245,0xfA7de175AAfa18A8672be6079B0BcE34B41dcAF3,Bg field,Blue,Yellow,Sharp odd,Fangs,Donut ash,Arrow,Bandage,Blank,Blank,Poring,
+246,0xF79E9a7E740ad341DF286425011B13F805CF403F,Bg bluesky,Green,Pink,Close down,Close,Long purple,Arrow,Goggles,Deviruchi,Water,Blank,
+247,0x92A6FE08D25a5AD9EE4d48F06b20bd5FA0aFF82E,Bg field,Red,Pink,Sharp purple,Close,Long green,Crystal,Goggles,Deviruchi,Blank,Blank,
+248,0x4953fB81d0a1bFf4fb6d204A9A94401F5A77A392,Bg bluesky,Green,Light,Sharp purple,Smile,Bang greenash,Crystal,Bandage,Goggles,Lightening,Deviruchi,
+249,0xeA9D0c91908a60FB3358513d04A308E615Be05B6,Beach,Blue,Red,Close up,Smile,Long green,Crystal,Bandage,Poring,Hearts,Goggles,
+250,0xCe11edC8E0EC55d0E275384B3E861C3c921Eb27A,Bg church,Yellow,Yellow,Close down,Smile,Short blue,Crystal,Poring,Deviruchi,Lightening,,
+251,0xAb5d6d5492BF78f7F56E48ABdF4952C7dBf55074,Bg town,Blue,Blue,Sharp odd,Close,Bowl blue,Arrow,Deviruchi,Goggles,Hearts,Blank,Bandage
+252,0x81935c1386b5347d95380d628510cF81FE1dE98c,Bg bluesky,Green,Yellow,Sharp blue,Smile,Donut blue,Sword up,Blank,Bandage,Hearts,Poring,Deviruchi
+253,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg forest,Yellow,Pink,Lash blue,Smile,Donut ash,Sword down,Deviruchi,Goggles,Blank,,
+254,0x8689de1b17f2c9B43FA983E339A026A85517aa4D,Bg dawn,Yellow,Bronzed,Round purple,Smirk,Long blonde,Arrow,Bandage,Deviruchi,Blank,Blank,
+255,0x1B1811b140B88651f160D7D8c8Db41596C274bab,Bg bluesky,Blue,Blue,Round yellow,Smirk,Long blonde,Crystal,Poring,Bandage,Flowers,Deviruchi,
+256,0x026c46856DFF6d592690dCCB4B490F68c63919dd,Bg bluesky,Blue,Blue,Sharp purple,Close,Long purple,Sword up,Poring,Bandage,Hearts,Deviruchi,
+257,0x332809329D1748C0ece068bE7c267e7a6F5a9191,Bg forest,Green,Blue,Sharp purple,Fangs,Donut pink,Sword down,Bandage,Poring,Blank,Blank,
+258,0xfe19E2C62B5De3099021FF9C0e6dAd0BF7F0ED4D,Bg forest,Red,Bronzed,Sharp green,Smile,Long green,Sword down,Bandage,Poring,Flowers white,,
+259,0x3F08d7DF5825F2b93bd2a04A97096a5F4C1F8e6a,Bg field,Yellow,Blue,Round yellow,Smile,Short purple,Sword down,Bandage,Blank,Water,Goggles,
+260,0xB5562E75F01Ff93EfA803c327E2652007A88e8E1,Beach,Green,Tan,Round purple,Smirk,Side navy,Arrow,Goggles,Deviruchi,Hearts,Bandage,Blank
+261,0x1510C530278c2390a03cE731F18E9652079c5D72,Bg church,Yellow,Pink,Round blue,Smile,Short green,Sword up,Deviruchi,Goggles,Hearts,Bandage,
+262,0x1f83f8aB72B7C26e81e5b31360778EAbD5f332E4,Bg forest,Yellow,Blue,Round blue,Smirk,Side brown,Sword,Deviruchi,Goggles,Hearts,Blank,Bandage
+263,0xc05f340df2be8f7885174Bfe96D2d6E61AFF73E7,Bg forest,Yellow,Red,Half purple,Smile,Bang pinkish,Arrow,Deviruchi,Blank,Lightening,Poring,
+264,0x27137c9F857d034Fbd2dB9D57014205f6A4B431B,Bg church,Red,Tan,Round purple,Smile,Short green,Arrow,Bandage,Poring,Blank,Goggles,Deviruchi
+265,0x2c0a5d465243b4E444f8A819A78aACd405D363D1,Beach,Yellow,Pink,Sharp purple,Open,Twin purple,Arrow,Goggles,Deviruchi,Hearts,Bandage,Blank
+266,0x0c330ED172C140e9e4A2f84C2A42B9A93D610F8D,Bg bluesky,Yellow,Light,Sharp blue,Smile,Donut blue,Crystal,Blank,Goggles,Water,Bandage,
+267,0x93f13c31f450dEe1353c9F1B23EFBF18CD4D62BE,Bg forest,Red,Green,Sharp purple,Smile,Long purple,Crystal,Bandage,Poring,Flowers,Goggles,Deviruchi
+268,0xA097EFC5bbdCd391a57D568A3Bc681199259657D,Beach,Red,Blue,Round blue,Close,Long blonde,Arrow,Blank,Goggles,Lightening,Deviruchi,
+269,0xE43A77679BC0B2F01D75396DD81290756A83010C,Bg forest,Red,Green,Round blue,Smile,Long sky,Crystal,Goggles,Deviruchi,Flowers white,Bandage,
+270,0xE43A77679BC0B2F01D75396DD81290756A83010C,Bg dawn,Green,Bronzed,Round purple,Open,Short blue,Sword down,Poring,Bandage,Blank,Deviruchi,
+271,0x62ADB8f535a19C1fdf24f86F6Eba50857d37Fa3E,Bg town,Red,Bronzed,Sharp green,Smile,Long green,Arrow,Goggles,Bandage,Flowers white,Poring,
+272,0x62ADB8f535a19C1fdf24f86F6Eba50857d37Fa3E,Bg bluesky,Green,Purple,Wink blue,Fangs,Short green,Arrow,Goggles,Poring,Flowers,,
+273,0xc4BbA2BD7BFbE745Fbd771de7AeCD37A92026604,Beach,Green,Pink,Sharp blue,Smile,Donut ash,Crystal,Bandage,Blank,Hearts,,
+274,0x15e61C2F2d2BD7A812CAf4B267aF677D924FF305,Bg bluesky,Yellow,Light,Sharp odd,Close,Twin turquoise,Crystal,Goggles,Blank,Flowers white,Deviruchi,
+275,0xD260Ae6906B368Bc3431568c637AB1AF825A672C,Bg field,Yellow,Blue,Lash purple,Close,Long green,Crystal,Deviruchi,Blank,Flowers white,,
+276,0x14E09a8596C1f25aF857E1C3476a85480604BD0b,Bg dawn,Red,Tan,Round red,Fangs,Long ash,Crystal,Blank,Bandage,Hearts,Goggles,
+277,0x1cf7e292c5F118697ba7BA12E8cA9A1Dd985a906,Bg forest,Blue,Green,Close up,Smile,Long red,Sword,Gold hair pin,Poring,Flowers white,Goggles,
+278,0x3567324b39C67EFCA0D6A84cb665aC9C12E6fDD4,Bg dawn,Blue,Yellow,Sharp odd,Fangs,Donut purple,Arrow,Deviruchi,Blank,Flowers white,Bandage,
+279,0x3567324b39C67EFCA0D6A84cb665aC9C12E6fDD4,Bg church,Yellow,Bronzed,Round green,Smile,Bowl green,Crystal,Deviruchi,Blank,Blank,Goggles,
+280,0xee04aFF62Fc896cD8cE13A320b483c7841e051ff,Bg field,Blue,Light,Sharp green,Close,Bang pinkish,Arrow,Blank,Goggles,Blank,Deviruchi,Poring
+281,0x3567324b39C67EFCA0D6A84cb665aC9C12E6fDD4,Bg town,Blue,Green,Close up,Smirk,Long blueash,Sword,Deviruchi,Poring,Hearts,Blank,
+282,0x795EB93Faa13a99104d20DB2919604068D56dE66,Beach,Green,Bronzed,Sharp blue,Smirk,Side pink,Arrow,Poring,Bandage,Flowers,,
+283,0x4a33Bd3d7C3bEdC4B23d4096a334C519740Fc9De,Bg bluesky,Blue,Yellow,Sharp blue,Smile,Short blonde,Arrow,Goggles,Deviruchi,Lightening,,
+284,0xC654F8140535324882797e34dCA76F70482CE10f,Bg dawn,Yellow,Green,Close up,Close,Bowl greenash,Crystal,Bandage,Poring,Flowers white,Blank,
+285,0xAda54148BA6072BBD2645c7629Ad2bbE08e394fe,Bg bluesky,Blue,Green,Wink pink,Open,Donut pink,Sword up,Poring,Bandage,Flowers,,
+286,0xCEe0095b50e9ea03Fc2Dc4F97589e8c3A51fFc88,Bg town,Red,Tan,Half purple,Close,Side navy,Arrow,Blank,Goggles,Blank,Poring,Deviruchi
+287,0xe8DAa10Ed3f4dCc46D5DB740B3238e36ee191D90,Bg bluesky,Blue,Light,Half purple,Smirk,Bowl green,Crystal,Poring,Blank,Lightening,,
+288,0xfF25c7794b455108Fa6aADee4091d0Cd80D811D1,Bg dawn,Blue,Bronzed,Round red,Fangs,Donut purple,Arrow,Goggles,Bandage,Blank,,
+289,0x3711d89054Cb36ABbA76b345AfdA182740c22ea3,Bg town,Green,Blue,Close up,Smile,Bowl green,Arrow,Deviruchi,Goggles,Flowers white,Poring,
+290,0x793B1Fb80767B3e9c7a956f503B2b28a212c91F8,Bg field,Yellow,Red,Sharp odd,Close,Bang navy,Crystal,Deviruchi,Goggles,Water,,
+291,0x5c266B7B69B8e7f437a9A1fE4438FE4E7b06f22f,Bg forest,Yellow,Blue,Sharp red,Smile,Bang green,Crystal,Deviruchi,Blank,Water,Poring,Goggles
+292,0xA8E4DD6008e3f508e4f400A475bDBBB1fCECf734,Bg field,Blue,Light,Sharp odd,Smirk,Side brown,Arrow,Deviruchi,Blank,Flowers,,
+293,0x80E5DfEA75c9d0727F91412d9f1F23342a67aE9E,Bg field,Red,Bronzed,Wink pink,Smile,Long purple,Arrow,Bandage,Goggles,Water,,
+294,0x15ab29A513c4BFDD40c12b9c0A049a541b78315B,Bg dawn,Red,Yellow,Close down,Open,Short green,Crystal,Deviruchi,Goggles,Lightening,Blank,
+295,0x8F0b02cD15aD407957946f7C29b75C3D53B87BcF,Bg dawn,Yellow,Tan,Sharp red,Close,Bang navy,Crystal,Bandage,Poring,Hearts,Deviruchi,Goggles
+296,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg town,Red,Yellow,Round purple,Close,Short blonde,Arrow,Bandage,Blank,Blank,Deviruchi,
+297,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg dawn,Yellow,Blue,Close up,Smirk,Bowl greenash,Crystal,Poring,Goggles,Water,Bandage,
+298,0x4489B95E1110Eda52C568d33c594de769013A226,Beach,Red,Tan,Sharp purple,Smile,Twin turquoise,Sword up,Poring,Bandage,Flowers,Deviruchi,Blank
+299,0xc6A834F954DEC305F0AA9E917B62d660E38939A8,Bg bluesky,Green,Light,Half purple,Close,Long silver,Arrow,Bandage,Deviruchi,Hearts,Goggles,
+300,0x1CDFB7F34e9d8bBAf5583a58783BFC4B67D3127B,Beach,Blue,Light,Round yellow,Open,Donut pink,Arrow,Poring,Blank,Water,,
+301,0x1CDFB7F34e9d8bBAf5583a58783BFC4B67D3127B,Bg forest,Yellow,Light,Round yellow,Smile,Short green,Sword up,Poring,Goggles,Flowers,Bandage,
+302,0xc3Dbfe0C4A4d981e29D74a153441423725F9c63C,Bg town,Blue,Light,Round yellow,Smile,Bowl red,Crystal,Deviruchi,Poring,Hearts,Goggles,
+303,0x5C0C61D4EbAFE3336998b8c45176100D8ECF3F2C,Bg dawn,Red,Red,Sharp blue,Smirk,Long blonde,Sword,Bandage,Poring,Water,,
+304,0x37D5dEC664b22f42bEd151629C6951Fd8f4fb0Fb,Bg forest,Green,Blue,Round green,Close,Side navy,Arrow,Poring,Blank,Hearts,Deviruchi,
+305,0x9943c5829bF6d92217c8Bc01637177fF71570143,Bg town,Green,Green,Close down,Close,Bang pinkish,Arrow,Blank,Bandage,Blank,,
+306,0xEB7c823C4fCA601ca0087A63CA3E726002Cb3124,Bg town,Red,Blue,Wink blue,Smile,Short blonde,Sword down,Deviruchi,Goggles,Flowers white,Bandage,
+307,0xEB7c823C4fCA601ca0087A63CA3E726002Cb3124,Beach,Red,Purple,Wink pink,Close,Short blue,Arrow,Goggles,Deviruchi,Flowers white,Bandage,
+308,0xEB7c823C4fCA601ca0087A63CA3E726002Cb3124,Bg town,Red,Bronzed,Close up,Fangs,Twin blue,Arrow,Blank,Goggles,Flowers,,
+309,0x715B1fB35FDf0a902c15E201f4F5d7Adb6526209,Bg church,Green,Light,Round green,Smirk,Long green,Crystal,Poring,Blank,Water,Deviruchi,
+310,0x91c40a32d59dFe454cb24d000FDa3f806665d3A7,Beach,Green,Red,Sharp purple,Close,Bowl greenash,Sword,Glasses,Devil horns,Water,Goggles,Deviruchi
+311,0xC5A304A15EFAA2E7b8be77509a9D809Ab93E5C70,Bg field,Green,Bronzed,Sharp red,Smile,Bowl green,Crystal,Bandage,Deviruchi,Blank,Goggles,
+312,0x1fb875a34563fC2649238E19E27a45F62312B8b4,Bg bluesky,Blue,Light,Round yellow,Smirk,Bang navy,Arrow,Goggles,Deviruchi,Water,,
+313,0x00E6787c38eAb5C30De0179d8f97eD217aD38b53,Bg field,Green,Bronzed,Round red,Fangs,Long green,Sword down,Bandage,Poring,Flowers,Goggles,
+314,0x00E6787c38eAb5C30De0179d8f97eD217aD38b53,Bg dawn,Red,Red,Sharp red,Smirk,Long blonde,Crystal,Poring,Deviruchi,Flowers white,Blank,
+315,0x72F9040747c7a532096de2457396F0C22c47Fa31,Bg forest,Yellow,Blue,Sharp green,Close,Twin blue,Sword down,Bandage,Blank,Hearts,,
+316,0x70E987D83b761d5c8D922c2A1cCd1051c4ce6A92,Bg bluesky,Green,Blue,Sharp green,Smirk,Bowl greenash,Sword,Bandage,Goggles,Hearts,Deviruchi,
+317,0x70E987D83b761d5c8D922c2A1cCd1051c4ce6A92,Beach,Red,Tan,Sharp blue,Smirk,Long blonde,Arrow,Deviruchi,Bandage,Lightening,Goggles,
+318,0xb561d39B2dcc455820173DB79BD7f77e6e7bf995,Bg church,Blue,Tan,Wink pink,Smile,Donut blue,Crystal,Poring,Goggles,Lightening,Blank,
+319,0x54335Dc05C485dd33dA4e296528307bA1D952daf,Bg church,Yellow,Bronzed,Round yellow,Smirk,Long silver,Arrow,Bandage,Goggles,Blank,Blank,
+320,0x56Ab91fA08810c746b1BDa395D1c2527C1801AA4,Bg town,Green,Pink,Round red,Fangs,Short blue,Arrow,Goggles,Deviruchi,Blank,Blank,
+321,0xee236eF45226CdB4F0FfC938CF42aD313821009d,Bg town,Yellow,Pink,Sharp purple,Fangs,Short purple,Sword up,Goggles,Deviruchi,Water,Poring,
+322,0xD48bC4eeb22EFAeea3e8e7540e2952dbdB2fab2F,Bg church,Green,Tan,Round purple,Smile,Twin blue,Crystal,Blank,Deviruchi,Flowers white,Bandage,
+323,0x6CE55CaCA95a00E938EA07a3Ca38f2C941Fe917e,Bg dawn,Red,Blue,Sharp odd,Close,Donut ash,Sword up,Bandage,Blank,Lightening,Deviruchi,
+324,0x5FA07a2D0eB9369283F9E44663F28013d295C2f7,Bg town,Red,Bronzed,Sharp purple,Smirk,Side blonde,Sword,Poring,Bandage,Water,Deviruchi,
+325,0x678632494b39B81121BC36A2224fA96911ACC5de,Bg church,Blue,Yellow,Close down,Smile,Twin turquoise,Sword up,Blank,Goggles,Flowers white,,
+326,0x73fF40aB63394D9E464b603685eB9978B7040b38,Bg forest,Yellow,Light,Sharp purple,Open,Long green,Sword down,Blank,Deviruchi,Lightening,,
+327,0x8d75ABe5f4985c1658b988f8d799cc21d3DA71B8,Beach,Green,Pink,Wink pink,Smile,Long purple,Arrow,Blank,Goggles,Lightening,Poring,
+328,0xCac3d7DDc8948c18B7F64f7a1273D472624bb008,Bg dawn,Red,Bronzed,Round yellow,Close,Twin purple,Sword up,Deviruchi,Poring,Flowers white,Bandage,Blank
+329,0xEb25A42DA6ea3d96567304C35ee77bD39ED8Aa4D,Bg dawn,Red,Tan,Close up,Smile,Donut ash,Sword down,Blank,Bandage,Blank,,
+330,0x0C4eb860377e847af7ED13cB29898b157b9609Ea,Beach,Blue,Light,Round red,Smile,Short green,Crystal,Bandage,Deviruchi,Hearts,Blank,
+331,0xe9594Ea7d519a142711a6F1257d9D9fB8563cbca,Bg field,Yellow,Tan,Round purple,Smile,Bang turquoise,Arrow,Deviruchi,Blank,Flowers white,Goggles,
+332,0x355e053f992760886696E3dd689Fc31742023404,Bg town,Green,Red,Round blue,Close,Long green,Sword,Poring,Goggles,Lightening,Blank,Deviruchi
+333,0xC22919b5D32268ceD484Cf4e7dD009a7Bc96C6eF,Bg forest,Yellow,Light,Round yellow,Smile,Side pink,Arrow,Deviruchi,Goggles,Lightening,,
+334,0x1A8EC52c2Fd1Fe4f6110747f60cc00A702071041,Bg bluesky,Blue,Bronzed,Half purple,Smirk,Long green,Sword,Deviruchi,Poring,Lightening,Blank,
+335,0xa8Da6b8948D011f063aF3aA8B6bEb417f75d1194,Bg dawn,Green,Purple,Lash blue,Small lips,Twin turquoise,Sword down,Ribbon,Shiny lashes,Flowers,Deviruchi,
+336,0x1233498Fe66e2E7f787E34c852564b2d4b0057BD,Bg dawn,Blue,Yellow,Sharp odd cry,Sad lips,Short blue,Sword up,Cry,Deviruchi,Hearts,,
+337,0x343F40A81569B57d2D808610Bcc0b14b0D4AA903,Bg dawn,Red,Bronzed,Close down,Open,Long green,Sword down,Poring,Goggles,Blank,Deviruchi,
+338,0x1B5730Dc9c1458D78E9c08386e9a3D24e83fa210,Bg town,Green,Light,Round green,Smile,Bang greenash,Crystal,Blank,Deviruchi,Water,Goggles,Bandage
+339,0x272A0F390A38870B4ac449C6F66181b62F6A06D5,Bg church,Green,Pink,Round red,Fangs,Short green,Sword up,Deviruchi,Bandage,Flowers,Blank,
+340,0xA8E4DD6008e3f508e4f400A475bDBBB1fCECf734,Bg forest,Green,Tan,Round yellow,Smirk,Bowl red,Crystal,Poring,Deviruchi,Water,Blank,
